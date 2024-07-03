@@ -1,5 +1,5 @@
 
-[![Status](https://img.shields.io/badge/CodeSpent-Software_Engineer-095569.svg?logo=github)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Status](https://img.shields.io/badge/CodeSpent-Fullstack_Developer-095569.svg?logo=github)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Status](https://img.shields.io/badge/Availability-Looking-success.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 # Hi, I'm Patrick
