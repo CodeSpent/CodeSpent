@@ -1,16 +1,28 @@
-## Hi there 👋
+[![Available?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-<!--
-**CodeSpent/CodeSpent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```yaml
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+name: Patrick Hanford
+located_in: Saginaw, Michigan
+title: Full-Stack Developer
+
+interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Data Science",
+    "Machine Learning",
+    "Artifical Intelligence",
+    "DevOps",
+    "Automation"
+  ]
+
+professional_experience:
+  [
+    "4 years @ Robert Half"
+    "2 years @ StreamKick",
+  ]
+
+```
