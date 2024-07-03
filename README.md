@@ -1,22 +1,31 @@
-[![Available?](https://img.shields.io/badge/Available%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+[![Status](https://img.shields.io/badge/CodeSpent-Software_Engineer-095569.svg?logo=github)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Status](https://img.shields.io/badge/Availability-Looking-success.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+# Hi, I'm Patrick
+A Full Stack developer with deep interest in **DX Tooling**, **DevOps** & **Artificial Intelligence**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phanford)
+[![Resume](https://img.shields.io/badge/View_Resume-teal?style=for-the-badge)](https://github.com/codespent/resume)
 
 
 ```yaml
-
-
 name: Patrick Hanford
-located_in: Saginaw, Michigan
+about: |
+  Fullstack Developer with interest in DevOps & Artifical Intelligence.  
+located_in: Michigan, USA
 title: Full-Stack Developer
 
 interests:
   [
+    "DevOps",
     "Web Development",
+    "APIs",
     "UI/UX",
     "Data Science",
     "Machine Learning",
-    "Artifical Intelligence",
-    "DevOps",
-    "Automation"
+    "Artificial Intelligence",
+    "IoT"
   ]
 
 professional_experience:
@@ -25,4 +34,9 @@ professional_experience:
     "2 years @ StreamKick",
   ]
 
+products_launched:
+  [
+    "DevStreams.io",
+    "Bias Agnostic Framework Library"
+  ]
 ```
