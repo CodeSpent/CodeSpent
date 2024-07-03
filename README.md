@@ -6,7 +6,7 @@
 A Full Stack developer with deep interest in **DX Tooling**, **DevOps** & **Artificial Intelligence**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phanford)
-[![Resume](https://img.shields.io/badge/View_Resume-teal?style=for-the-badge)](https://github.com/codespent/resume)
+[![Resume](https://img.shields.io/badge/View_Resume-teal?style=for-the-badge)](https://codespent.github.io/resume)
 
 
 ```yaml
