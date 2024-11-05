@@ -1,6 +1,5 @@
 
-[![Status](https://img.shields.io/badge/CodeSpent-Fullstack_Developer-095569.svg?logo=github)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Status](https://img.shields.io/badge/Availability-Looking-success.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Status](https://img.shields.io/badge/CodeSpent-Fullstack_Developer-095569.svg?logo=github)](#)
 
 # Hi, I'm Patrick
 A Full Stack developer with deep interest in **DX Tooling**, **DevOps** & **Artificial Intelligence**.
