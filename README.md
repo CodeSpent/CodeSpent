@@ -29,7 +29,7 @@ interests:
 
 professional_experience:
   [
-    "1 year @ Ford International Motors,
+    "1.5 years @ Ford International Motors,
     "4 years @ Robert Half",
     "2 years @ StreamKick",
   ]
@@ -38,6 +38,7 @@ products_launched:
   [
     "TakePoint.dev",
     "DevStreams.io",
+    "Brandable.dev",
     "Bias Agnostic Framework Library"
   ]
 ```
