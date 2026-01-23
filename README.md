@@ -9,9 +9,7 @@ A Full Stack developer with deep interest in **DX Tooling**, **Machine Learning*
 
 
 ```yaml
-name: Patrick Hanford
-about: |
-  Fullstack Developer with interest in DX & Artifical Intelligence.  
+name: Patrick Hanford 
 located_in: Michigan, USA
 title: Full-Stack Developer
 
