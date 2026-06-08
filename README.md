@@ -5,7 +5,7 @@
 A Fullstack Software Engineer with an interest in **DX Tooling**, **Machine Learning** & **Artificial Intelligence**. I enjoy building tools
 that enable people to focus more on the creativity aspects of what they do best.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-phanford.dev-purple?style=fir-the-badge)](https://phanford.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phanford.dev-purple?style=for-the-badge)](https://phanford.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phanford)
 [![Resume](https://img.shields.io/badge/View_Resume-teal?style=for-the-badge)]([https://codespent.github.io/resume](https://www.phanford.dev/documents/resume/resume.pdf))
 
