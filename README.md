@@ -17,7 +17,7 @@ title: Fullstack Software Engineer
 interests:
   [
     "Web Development",
-    "CLI Tools",,
+    "CLI Tools",
     "Artificial Intelligence (AI)",
     "Public APIs",
     "Developer Experience (DX)",
